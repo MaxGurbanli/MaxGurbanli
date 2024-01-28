@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate developer from Azerbaijan</h3>
+<h3 align="center">Based in the Netherlands, originally from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxgurbanli&label=Profile%20views&color=0e75b6&style=flat" alt="maxgurbanli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxgurbanli" alt="maxgurbanli" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/maxikinz_" target="blank"><img src="https://img.shields.io/twitter/follow/maxikinz_?logo=twitter&style=for-the-badge" alt="maxikinz_" /></a> </p>
-
-- 🔭 I’m currently working on **Rune**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxgurbanli&show_icons=true&locale=en&layout=compact" alt="maxgurbanli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxgurbanli&show_icons=true&locale=en" alt="maxgurbanli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxgurbanli&" alt="maxgurbanli" /></p>
