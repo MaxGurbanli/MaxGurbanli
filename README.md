@@ -2,8 +2,7 @@
 <h3 align="center">Based in the Netherlands, originally from Azerbaijan</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maksud-gurbanli-1b0640243/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maksud-gurbanli-1b0640243/" height="30" width="40" /></a>
-<a href="https://twitter.com/maxikinz_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maxikinz_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maksud-gurbanli-1b0640243/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maksud-gurbanli-1b0640243/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
