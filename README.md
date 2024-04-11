@@ -18,5 +18,4 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxgurbanli&show_icons=true&locale=en&layout=compact" alt="maxgurbanli" />
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=maxgurbanli&show_icons=true&locale=en" alt="maxgurbanli" />
 </p>
